@@ -34,8 +34,8 @@ function App() {
           style={{
             padding: 0,
             background: '#001529'
-          }}
-        />
+          }} className="f1"
+        >FORMULA 1</Header>
         <Content
           style={{
             margin: '24px 16px 0',
